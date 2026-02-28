@@ -43,7 +43,7 @@ Tenho base sólida em Algoritmos, Estruturas de Dados, Redes e Sistemas Operacio
 ---
 
 ## 📫 Contato
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelo.dev_30)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/angelomaiadosanjos)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelocoisasimportantes@gmail.com)
 ![Visitas](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FpvaugustoAI%2FpvaugustoAI.json%3Fshow%3Dleft%26color%3Dgrey&style=for-the-badge)
