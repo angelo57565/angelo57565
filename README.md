@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Angelo Shimizu!
+# 👋 Olá, eu sou Angelo Maia!
 
 ### 🚀 Back-End Developer em formação | SQL | Node.js | Python | IA  
 📍 Manaus - AM, Brasil 🌳 | 🏠 Disponível para Estágio e Júnior
@@ -17,10 +17,15 @@ Tenho base sólida em Algoritmos, Estruturas de Dados, Redes e Sistemas Operacio
 
 ## 💼 Oportunidades de Interesse
 
-🎓 Estágio em Desenvolvimento Back-End  
-🚀 Desenvolvedor Back-End Júnior  
-📊 Estágio em Dados / Inteligência Artificial  
+**Estou disponível para as seguintes posições:**
 
+🎓 **Estágio:** Desenvolvimento de Software | Análise de Dados | Ciência de Dados  | Desenvolvimento Web (Back-End) Business Intelligence (BI)
+
+🚀 **Júnior:** Analista de Dados | Cientista de Dados | Desenvolvedor Python (Back-end) | 
+
+🛠️ **Engenharia:** Machine Learning | Visão Computacional | Sistemas Embarcados (Desenvolvedor)
+
+---
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
